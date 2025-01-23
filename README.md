@@ -1,8 +1,8 @@
 # Voluntarily-Teaching-DSA
 
-Contributing to [iCodeGuru](https://icode.guru/) with a LeetCode emphasis, supporting the technical development of underprivileged students. This repository features a curated collection of coding videos, created with dedication, to empower underprivileged students in their pursuit of excellence in technology.
+_In this repo I have saved my contribution to [iCodeGuru](https://icode.guru/)  with a LeetCode emphasis, supporting the technical development of underprivileged students. This repository features a curated collection of coding videos, created with dedication, to empower underprivileged students in their pursuit of excellence in technology._
 
-iCodeGuru is a platform dedicated to empowering underprivileged yet determined students by providing access to top-notch learning resources.
+_iCodeGuru is a platform dedicated to empowering underprivileged yet determined students by providing access to top-notch learning resources. This esteemed platform has a **community of more than 30,000 students** from which many have already secured scholarships for Masters and Ph.D in USA and other countries and many have achieved global recognitions._
 
 ### Lecture 1
 
