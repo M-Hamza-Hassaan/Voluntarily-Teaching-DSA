@@ -12,7 +12,6 @@ _iCodeGuru is a platform dedicated to empowering underprivileged yet determined 
 | **Problem Solution** | [Code Solution](https://github.com/your-repo/solutions/two-sum)                                   |
 | **Video Link**| [1 Hour Teaching Video](https://fb.watch/xhIlvWVEg4/)     
  
-v<----------To be Edited---------->v
 ### Lecture 2  
 
 | **Resourse**                        | **Links**                                                                                       |  
@@ -21,6 +20,8 @@ v<----------To be Edited---------->v
 | **Problem Solution** | [Code Solution](https://github.com/your-repo/solutions/two-sum)                                    |  
 | **Video Link**       | [1 Hour Teaching Video (Part-1)](https://www.facebook.com/share/v/wLmDD3n4tRqxRXo6/?mibextid=oFDknk)                                                  |  
 |        | [1 Hour Teaching Video (Part-2)](https://www.facebook.com/share/v/mWVT2CRthTodDciU/?mibextid=oFDknk)                                                  |  
+
+v<----------To be Edited---------->v
 
 ### Lecture 3
 
