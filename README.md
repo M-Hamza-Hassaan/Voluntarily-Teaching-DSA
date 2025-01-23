@@ -17,9 +17,10 @@ v<----------To be Edited---------->v
 
 | **Resourse**                        | **Links**                                                                                       |  
 |-------------------------------------|---------------------------------------------------------------------------------------------------|  
-| **Problem Name**    | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                                 |  
+| **Problem Name**    | [15. 3Sum](https://leetcode.com/problems/3sum/description/)                                                 |  
 | **Problem Solution** | [Code Solution](https://github.com/your-repo/solutions/two-sum)                                    |  
-| **Video Link**       | [1 Hour Teaching Video](https://fb.watch/xhIlvWVEg4/)                                                  |  
+| **Video Link**       | [1 Hour Teaching Video (Part-1)](https://www.facebook.com/share/v/wLmDD3n4tRqxRXo6/?mibextid=oFDknk)                                                  |  
+|        | [1 Hour Teaching Video (Part-2)](https://www.facebook.com/share/v/mWVT2CRthTodDciU/?mibextid=oFDknk)                                                  |  
 
 ### Lecture 3
 
