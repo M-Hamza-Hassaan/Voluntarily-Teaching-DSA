@@ -29,16 +29,16 @@ _iCodeGuru is a platform dedicated to empowering underprivileged yet determined 
 | **Problem Solution**  | []()                         |
 | **Video Link**        | [10 Minutes Video Link](https://www.facebook.com/share/v/f6czV1SSt8HqtF6N/?mibextid=oFDknk)                                              |
 
-v<----------To be Edited---------->v
-
-
 ### Lecture 4
 
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| **Problem Name**      | [1423. Maximum Points You Can Obtain from Cards]([https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/))                      |
+| **Problem Name**      | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)                      |
 | **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/valid-parentheses)                      |
 | **Video Link**        | [1 Hour Teaching Video](https://fb.watch/uFWudtcD9y/)                                              |
+
+v<----------To be Edited---------->v
+
 
 ### Lecture 5
 
