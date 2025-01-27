@@ -36,9 +36,9 @@ v<----------To be Edited---------->v
 
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| **Problem Name**      | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                      |
+| **Problem Name**      | [1423. Maximum Points You Can Obtain from Cards]([https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/))                      |
 | **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/valid-parentheses)                      |
-| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/xhIlvWVEg4/)                                              |
+| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/uFWudtcD9y/)                                              |
 
 ### Lecture 5
 
