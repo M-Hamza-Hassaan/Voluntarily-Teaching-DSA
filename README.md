@@ -21,15 +21,16 @@ _iCodeGuru is a platform dedicated to empowering underprivileged yet determined 
 | **Video Link**       | [1 Hour Teaching Video (Part-1)](https://www.facebook.com/share/v/wLmDD3n4tRqxRXo6/?mibextid=oFDknk)                                                  |  
 |        | [1 Hour Teaching Video (Part-2)](https://www.facebook.com/share/v/mWVT2CRthTodDciU/?mibextid=oFDknk)                                                  |  
 
-v<----------To be Edited---------->v
-
 ### Lecture 3
 
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
 | **Problem Name**      | [Sliding Window Introduction]() |
-| **Problem Solution**  | [-]()                         |
+| **Problem Solution**  | []()                         |
 | **Video Link**        | [10 Minutes Video Link](https://www.facebook.com/share/v/f6czV1SSt8HqtF6N/?mibextid=oFDknk)                                              |
+
+v<----------To be Edited---------->v
+
 
 ### Lecture 4
 
