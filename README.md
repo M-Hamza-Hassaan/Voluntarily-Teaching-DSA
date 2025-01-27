@@ -27,9 +27,9 @@ v<----------To be Edited---------->v
 
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| **Problem Name**      | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/buy-sell-stock)                         |
-| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/xhIlvWVEg4/)                                              |
+| **Problem Name**      | [Sliding Window Introduction]() |
+| **Problem Solution**  | [-]()                         |
+| **Video Link**        | [10 Minutes Video Link](https://www.facebook.com/share/v/f6czV1SSt8HqtF6N/?mibextid=oFDknk)                                              |
 
 ### Lecture 4
 
