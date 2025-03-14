@@ -1,8 +1,8 @@
 # Voluntarily-Teaching-DSA
 
-_In this repo I have saved my contribution to [iCodeGuru](https://icode.guru/)  with a LeetCode emphasis, supporting the technical development of underprivileged students. This repository features a curated collection of coding videos, created with dedication, to empower underprivileged students in their pursuit of excellence in technology._
+_In this repo I have saved my contribution to [iCodeGuru](https://icode.guru/)  with a LeetCode emphasis, supporting the technical development of Enthausiastic students. This repository features a curated collection of coding videos, created with dedication, to empower underprivileged students in their pursuit of excellence in technology._
 
-_iCodeGuru is a platform dedicated to empowering underprivileged yet determined students by providing access to top-notch learning resources. This esteemed platform has a **community of more than 30,000 students** from which many have already secured scholarships for Masters and Ph.D in USA and other countries and many have achieved global recognitions._
+_iCodeGuru is a platform dedicated to empowering determined students by providing access to top-notch learning resources. This esteemed platform has a **community of more than 30,000 students** from which many have already secured scholarships for Masters and Ph.D in USA and other countries and many have achieved global recognitions._
 
 ### Lecture 1
 
@@ -26,7 +26,7 @@ _iCodeGuru is a platform dedicated to empowering underprivileged yet determined 
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
 | **Problem Name**      | [Sliding Window Introduction]() |
-| **Problem Solution**  | []()                         |
+| **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/two-sum)                         |
 | **Video Link**        | [10 Minutes Video Link](https://www.facebook.com/share/v/f6czV1SSt8HqtF6N/?mibextid=oFDknk)                                              |
 
 ### Lecture 4
