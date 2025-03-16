@@ -37,24 +37,25 @@ _iCodeGuru is a platform dedicated to empowering determined students by providin
 | **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/valid-parentheses)                      |
 | **Video Link**        | [1 Hour Teaching Video](https://fb.watch/uFWudtcD9y/)                                              |
 
-v<----------To be Edited---------->v
-
 
 ### Lecture 5
 
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| **Problem Name**      | [704. Binary Search](https://leetcode.com/problems/binary-search/)                             |
+| **Problem Name**      | [26. Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                             |
 | **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/binary-search)                          |
-| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/xhIlvWVEg4/)                                              |
+| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/uHjCKKWIef)                                              |
 
 ### Lecture 6
 
+v<----------To be Edited---------->v
+
+
 | **Resource**         | **Links**                                                                                       |
 |-----------------------|-------------------------------------------------------------------------------------------------|
-| **Problem Name**      | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                |
+| **Problem Name**      |                                               |
 | **Problem Solution**  | [Code Solution](https://github.com/your-repo/solutions/3sum)                                   |
-| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/xhIlvWVEg4/)                                              |
+| **Video Link**        | [1 Hour Teaching Video](https://fb.watch/uHMz6bhxaR/)                                              |
 
 ### Lecture 7
 
