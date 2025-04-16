@@ -8,7 +8,7 @@ _iCodeGuru is a platform dedicated to empowering determined students by providin
 
 | **Lecture** | **Problem Name** | **Solution** | **Video Explanation** |
 |------------|-----------------|-------------|---------------------|
-| **Lec 1** | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Code Solution](https://github.com/your-repo/solutions/move-zeroes) | [Watch Here](https://fb.watch/xhIlvWVEg4/) |
+| **Lec 1** | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) , [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) , [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Code Solution](https://github.com/your-repo/solutions/move-zeroes) | [Watch Here](https://fb.watch/xhIlvWVEg4/) |
 | **Lec 2** | [15. 3Sum](https://leetcode.com/problems/3sum/) | [Code Solution](https://github.com/your-repo/solutions/3sum) | [Part 1](https://www.facebook.com/share/v/wLmDD3n4tRqxRXo6/) <br> [Part 2](https://www.facebook.com/share/v/mWVT2CRthTodDciU/) |
 | **Lec 3** | Sliding Window Introduction , [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Code Solution](https://github.com/your-repo/solutions/sliding-window) | [Watch Here](https://www.facebook.com/share/v/f6czV1SSt8HqtF6N/) |
 | **Lec 4** | [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Code Solution](https://github.com/your-repo/solutions/maximum-points) | [Watch Here](https://fb.watch/uFWudtcD9y/) |
